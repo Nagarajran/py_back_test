@@ -3,13 +3,13 @@ Trying to learn python
 
 Download HTML file/s and open in browser to look at charts and python code
 
-Intraday Short on open
+##Intraday Short on open
 
 [open-stretch-id.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Nagarajran/py_back_test/master/open-stretch-id.html)
 
 
 
-Long term trend following with Pyramid posistion sizing
+##Long term trend following with Pyramid posistion sizing
 
 [RSI2-2000-2017-For-Options-85% 52W high as limit.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Nagarajran/py_back_test/master/RSI2-2000-2017-For-Options-85%25%2052W%20high%20as%20limit.html)
 
